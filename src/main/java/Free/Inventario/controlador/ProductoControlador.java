@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-//http://localhost"8080/inventario-app
+//http://localhost:8080/inventario-app
 @RequestMapping("inventario-app")
 @CrossOrigin(value = "http://localhost:4200")
 public class ProductoControlador {
